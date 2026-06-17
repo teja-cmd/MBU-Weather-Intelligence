@@ -1219,6 +1219,14 @@ def render_home_page():
             Powered by NASA POWER Data & Advanced Machine Learning<br>
             <em>Empowering Smart Campus Decisions Through AI</em>
         </div>
+        <div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1);">
+            <div style="color: rgba(255,255,255,0.8); font-size: 0.95rem; line-height: 1.5;">
+                <strong>👨‍💻 This project is done by:</strong><br>
+                <span style="color: #f59e0b; font-weight: 600;">Bathula Teja Kumar</span><br>
+                AIML Student, 2023-2027 Batch<br>
+                Mohan Babu University
+            </div>
+        </div>
     </div>
     """, unsafe_allow_html=True)
 

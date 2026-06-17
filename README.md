@@ -318,3 +318,11 @@ This enhanced system provides:
 
 *Developed for Mohan Babu University, Tirupati*  
 *Last Updated: May 2026*
+
+## 👨‍💻 Developer
+
+**Bathula Teja Kumar**  
+AIML Student, 2023-2027 Batch  
+Mohan Babu University
+
+---
