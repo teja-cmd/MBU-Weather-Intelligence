@@ -1,12 +1,4 @@
-# System packages required for Streamlit Cloud deployment
-# These will be installed via apt-get
-
-# For numerical computations
 libblas3
 liblapack3
-
-# For machine learning libraries
 libgomp1
-
-# For plotly and graphics
 libx11-6
