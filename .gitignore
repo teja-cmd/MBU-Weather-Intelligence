@@ -14,8 +14,11 @@ build/
 # Streamlit
 .streamlit/secrets.toml
 
-# Data files (optional - keep your models)
-# data.csv
+# Data files - keep data.csv but ignore temporary files
+*.tmp
+*.temp
+*_temp.csv
+*_backup.*
 
 # IDE
 .vscode/
@@ -30,6 +33,15 @@ Thumbs.db
 # Logs
 *.log
 
-# Temporary files
-*.tmp
-*.temp
+# Jupyter Notebooks (if any)
+.ipynb_checkpoints/
+
+# Local development files
+local_test.py
+test_*.py
+
+# Large model files backup (keep only essential models)
+# models_backup/
+
+# Git large files
+*.pkl.backup
